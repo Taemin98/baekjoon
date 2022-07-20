@@ -8,11 +8,7 @@ int main(){
     int count = 0;
     int count2 = 0;
 
-    for(int i = 0; i < 1001; i++){
-        if(patient[i] == 'h') count = i;
-        if(doctor[i] == 'h') count2 = i;
-    }
-    if(count >= count2) printf("go");
+    if(strlen(patient) >= strlen(doctor)) printf("go");
     else printf("no");
 
     return 0;
