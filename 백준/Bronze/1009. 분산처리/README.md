@@ -1,4 +1,4 @@
-# [Bronze III] 분산처리 - 1009 
+# [Bronze II] 분산처리 - 1009 
 
 [문제 링크](https://www.acmicpc.net/problem/1009) 
 
